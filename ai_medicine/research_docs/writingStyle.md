@@ -114,6 +114,54 @@
    - Consider implementation costs
    - Discuss practice implications
 
+### Figure Requirements
+1. **Figure Referencing**
+   - First mention: "As shown in Figure X..."
+   - Subsequent mentions: "(Fig. X)"
+   - Multiple figures: "Figures X and Y"
+   - Range of figures: "Figures X-Z"
+   - Must reference all figures in text
+   - Reference before figure appears
+
+2. **Caption Style**
+   - Title: Brief, descriptive phrase
+   - Description: Detailed explanation
+   - Methods: Key methodological details
+   - Statistics: Relevant statistical information
+   - Source: Attribution if adapted
+   - End with period
+
+3. **Figure Placement**
+   - PRISMA Flow: After search strategy
+   - Quality Assessment: After methods
+   - Forest Plots: In results section
+   - Theme Analysis: After themes
+   - Implementation: In framework section
+   - Maximum one page per figure
+   - Center on page
+
+4. **Figure-Specific Language**
+   - PRISMA: "identified", "screened", "included"
+   - Quality: "high quality", "moderate quality"
+   - Forest Plots: "effect size", "confidence interval"
+   - Theme: "relationships", "patterns", "evolution"
+   - Implementation: "process", "components", "phases"
+
+5. **Cross-Referencing**
+   - Link to relevant text sections
+   - Connect to specific findings
+   - Reference in discussion points
+   - Include in implications
+   - Maintain consistent numbering
+
+6. **Visual Style**
+   - Clear, readable fonts
+   - Consistent formatting
+   - Professional appearance
+   - Appropriate size
+   - High resolution
+   - Black and white compatible
+
 ### Theme Analysis Requirements
 1. **Pattern Identification**
    - Use systematic approach to identify themes
