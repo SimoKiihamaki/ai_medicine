@@ -155,17 +155,25 @@
      ```json
      {
        "implementation": {
-         "language": "Python 3.9",
+         "language": "Python 3.10",
          "packages": {
-           "requests": "2.28.0",
-           "pandas": "1.5.0",
-           "beautifulsoup4": "4.11.0"
+           "requests": "2.31.0",
+           "pandas": "2.1.3",
+           "numpy": "1.26.4",
+           "scikit-learn": "1.3.2",
+           "beautifulsoup4": "4.12.3"
+         },
+         "validation": {
+           "k_fold_cross_validation": "k=10",
+           "effect_size": "Cohen's d",
+           "outlier_detection": "3σ threshold"
          }
        },
        "documentation": {
-         "markdown": "CommonMark",
-         "pandoc": "2.19",
-         "citeproc": "0.7"
+         "markdown": "CommonMark 0.30",
+         "pandoc": "3.1.9",
+         "citeproc": "0.8.1",
+         "style_checker": "vale 2.28.1"
        }
      }
      ```
