@@ -16,7 +16,7 @@ The manuscript systematically addresses five key research questions:
 
 ## Meta-Level Information
 
-This research has been conducted using **Roo Code** and implements the **memory bank** concept as documented in the **Cline documentation**. The memory bank, along with custom instructions, file organization, and structure, has been adapted to fit the academic writing process. 
+This research has been conducted using generative AI models in **Roo Code**. The tasks have been carried out mainly by Anthropic's Claude Sonnet 3.5 v2 and Deepseek R1. The Roo Code setup implements the **memory bank** concept as documented in the **Cline documentation**. The memory bank, along with custom instructions, file organization, and structure, has been adapted to fit the academic writing process. 
 
 A future version of this repository will include additional files and instructions related to:
 - The memory bank implementation.
