@@ -101,7 +101,7 @@
 4. **Results Section**
    - Begin with PRISMA flow diagram results
    - Report quality assessment outcomes
-   - Include meta-analysis where applicable
+   -
    - Present effect sizes
    - Report heterogeneity statistics
    - Use forest plots for key findings

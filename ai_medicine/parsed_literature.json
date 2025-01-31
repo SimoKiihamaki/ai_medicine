@@ -348,20 +348,6 @@
         "pmid": "39259652"
     },
     {
-        "title": "Personalized cancer vaccine design using AI-powered technologies.",
-        "authors": [
-            "Anant Kumar",
-            "Shriniket Dixit",
-            "Kathiravan Srinivasan",
-            "Dinakaran M",
-            "P M Durai Raj Vincent"
-        ],
-        "abstract": "Immunotherapy has ushered in a new era of cancer treatment, yet cancer remains a leading cause of global mortality. Among various therapeutic strategies, cancer vaccines have shown promise by activating the immune system to specifically target cancer cells. While current cancer vaccines are primarily prophylactic, advancements in targeting tumor-associated antigens (TAAs) and neoantigens have paved the way for therapeutic vaccines. The integration of artificial intelligence (AI) into cancer vaccine development is revolutionizing the field by enhancing various aspect of design and delivery. This review explores how AI facilitates precise epitope design, optimizes mRNA and DNA vaccine instructions, and enables personalized vaccine strategies by predicting patient responses. By utilizing AI technologies, researchers can navigate complex biological datasets and uncover novel therapeutic targets, thereby improving the precision and efficacy of cancer vaccines. Despite the promise of AI-powered cancer vaccines, significant challenges remain, such as tumor heterogeneity and genetic variability, which can limit the effectiveness of neoantigen prediction. Moreover, ethical and regulatory concerns surrounding data privacy and algorithmic bias must be addressed to ensure responsible AI deployment. The future of cancer vaccine development lies in the seamless integration of AI to create personalized immunotherapies that offer targeted and effective cancer treatments. This review underscores the importance of interdisciplinary collaboration and innovation in overcoming these challenges and advancing cancer vaccine development.",
-        "journal": "Frontiers in immunology",
-        "publication_year": "2024",
-        "pmid": "39582860"
-    },
-    {
         "title": "Artificial intelligence and machine learning for anaphylaxis algorithms.",
         "authors": [
             "Christopher Miller",
@@ -413,17 +399,6 @@
         "journal": "Cureus",
         "publication_year": "2024",
         "pmid": "38550467"
-    },
-    {
-        "title": "Convergence of nanotechnology and artificial intelligence in the fight against liver cancer: a comprehensive review.",
-        "authors": [
-            "Manjusha Bhange",
-            "Darshan Telange"
-        ],
-        "abstract": "Liver cancer is one of the most challenging malignancies, often associated with poor prognosis and limited treatment options. Recent advancements in nanotechnology and artificial intelligence (AI) have opened new frontiers in the fight against this disease. Nanotechnology enables precise, targeted drug delivery, enhancing the efficacy of therapeutics while minimizing off-target effects. Simultaneously, AI contributes to improved diagnostic accuracy, predictive modeling, and the development of personalized treatment strategies. This review explores the convergence of nanotechnology and AI in liver cancer treatment, evaluating current progress, identifying existing research gaps, and discussing future directions. We highlight how AI-powered algorithms can optimize nanocarrier design, facilitate real-time monitoring of treatment efficacy, and enhance clinical decision-making. By integrating AI with nanotechnology, clinicians can achieve more accurate patient stratification and treatment personalization, ultimately improving patient outcomes. This convergence holds significant promise for transforming liver cancer therapy into a more precise, individualized, and efficient process. However, data privacy, regulatory hurdles, and the need for large-scale clinical validation remain. Addressing these issues will be essential to fully realizing the potential of these technologies in oncology.",
-        "journal": "Discover oncology",
-        "publication_year": "2025",
-        "pmid": "39841330"
     },
     {
         "title": "Intelligent Health Care: Applications of Deep Learning in Computational Medicine.",
@@ -1020,6 +995,17 @@
         "pmid": "33798442"
     },
     {
+        "title": "Convergence of nanotechnology and artificial intelligence in the fight against liver cancer: a comprehensive review.",
+        "authors": [
+            "Manjusha Bhange",
+            "Darshan Telange"
+        ],
+        "abstract": "Liver cancer is one of the most challenging malignancies, often associated with poor prognosis and limited treatment options. Recent advancements in nanotechnology and artificial intelligence (AI) have opened new frontiers in the fight against this disease. Nanotechnology enables precise, targeted drug delivery, enhancing the efficacy of therapeutics while minimizing off-target effects. Simultaneously, AI contributes to improved diagnostic accuracy, predictive modeling, and the development of personalized treatment strategies. This review explores the convergence of nanotechnology and AI in liver cancer treatment, evaluating current progress, identifying existing research gaps, and discussing future directions. We highlight how AI-powered algorithms can optimize nanocarrier design, facilitate real-time monitoring of treatment efficacy, and enhance clinical decision-making. By integrating AI with nanotechnology, clinicians can achieve more accurate patient stratification and treatment personalization, ultimately improving patient outcomes. This convergence holds significant promise for transforming liver cancer therapy into a more precise, individualized, and efficient process. However, data privacy, regulatory hurdles, and the need for large-scale clinical validation remain. Addressing these issues will be essential to fully realizing the potential of these technologies in oncology.",
+        "journal": "Discover oncology",
+        "publication_year": "2025",
+        "pmid": "39841330"
+    },
+    {
         "title": "Model-to-Data Approach for Deep Learning in Optical Coherence Tomography Intraretinal Fluid Segmentation.",
         "authors": [
             "Nihaal Mehta",
@@ -1088,6 +1074,20 @@
         "journal": "Clinical and translational radiation oncology",
         "publication_year": "2017",
         "pmid": "29594204"
+    },
+    {
+        "title": "Personalized cancer vaccine design using AI-powered technologies.",
+        "authors": [
+            "Anant Kumar",
+            "Shriniket Dixit",
+            "Kathiravan Srinivasan",
+            "Dinakaran M",
+            "P M Durai Raj Vincent"
+        ],
+        "abstract": "Immunotherapy has ushered in a new era of cancer treatment, yet cancer remains a leading cause of global mortality. Among various therapeutic strategies, cancer vaccines have shown promise by activating the immune system to specifically target cancer cells. While current cancer vaccines are primarily prophylactic, advancements in targeting tumor-associated antigens (TAAs) and neoantigens have paved the way for therapeutic vaccines. The integration of artificial intelligence (AI) into cancer vaccine development is revolutionizing the field by enhancing various aspect of design and delivery. This review explores how AI facilitates precise epitope design, optimizes mRNA and DNA vaccine instructions, and enables personalized vaccine strategies by predicting patient responses. By utilizing AI technologies, researchers can navigate complex biological datasets and uncover novel therapeutic targets, thereby improving the precision and efficacy of cancer vaccines. Despite the promise of AI-powered cancer vaccines, significant challenges remain, such as tumor heterogeneity and genetic variability, which can limit the effectiveness of neoantigen prediction. Moreover, ethical and regulatory concerns surrounding data privacy and algorithmic bias must be addressed to ensure responsible AI deployment. The future of cancer vaccine development lies in the seamless integration of AI to create personalized immunotherapies that offer targeted and effective cancer treatments. This review underscores the importance of interdisciplinary collaboration and innovation in overcoming these challenges and advancing cancer vaccine development.",
+        "journal": "Frontiers in immunology",
+        "publication_year": "2024",
+        "pmid": "39582860"
     },
     {
         "title": "Quality, Usability, and Effectiveness of mHealth Apps and the Role of Artificial Intelligence: Current Scenario and Challenges.",
@@ -2384,6 +2384,21 @@
         "journal": "Current medical imaging",
         "publication_year": "2024",
         "pmid": "39297463"
+    },
+    {
+        "title": "Applying YOLOv6 as an ensemble federated learning framework to classify breast cancer pathology images.",
+        "authors": [
+            "Chhaya Gupta",
+            "Nasib Singh Gill",
+            "Preeti Gulia",
+            "Noha Alduaiji",
+            "J Shreyas",
+            "Piyush Kumar Shukla"
+        ],
+        "abstract": "The most common carcinoma-related cause of death among women is breast cancer. Early detection is crucial, and the manual screening method may lead to a delayed diagnosis, which would delay treatment and put lives at risk. Mammography imaging is advised for routine screening to diagnose breast cancer at an early stage. To improve generalizability, this study examines the implementation of Federated Learning (FedL) to detect breast cancer. Its performance is compared to a centralized training technique that diagnoses breast cancer. Although FedL has been famous as a safeguarding privacy algorithm, its similarities to ensemble learning methods, such as federated averaging (FEDAvrg), still need to be thoroughly investigated. This study examines explicitly how a YOLOv6 model trained with FedL performs across several clients. A new homomorphic encryption and decryption algorithm is also proposed to retain data privacy. A novel pruned YOLOv6 model with FedL is introduced in this study to differentiate benign and malignant tissues. The model is trained on the breast cancer pathological dataset BreakHis and BUSI. The proposed model achieved a validation accuracy of 98% on BreakHis dataset and 97% on BUSI dataset. The results are compared with the VGG-19, ResNet-50, and InceptionV3 algorithms, showing that the proposed model achieved better results. The tests reveal that federated learning is feasible, as FedAvrg trains models of outstanding quality with only a few communication rounds, as shown by the results on a range of model topologies such as ResNet50, VGG-19, InceptionV3, and the proposed Ensembled FedL YOLOv6.",
+        "journal": "Scientific reports",
+        "publication_year": "2025",
+        "pmid": "39885198"
     },
     {
         "title": "[Digital Health in Respiratory Medicine - Current Status].",

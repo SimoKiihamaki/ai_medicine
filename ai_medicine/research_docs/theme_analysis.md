@@ -1,7 +1,7 @@
 # Theme Analysis: AI in Medicine Literature Review
 
 ## Overview
-Analysis of 142 articles (2017-2025) examining artificial intelligence applications in medicine, with focus on implementation, privacy, and ethical considerations. As shown in Figure 1 (PRISMA flow diagram), the systematic review process identified and screened 487 records, resulting in 142 included studies. The quality assessment (Figure 2) reveals a predominance of high (n=58) and medium (n=65) quality studies, with low risk of bias (Figure 3) in the majority of included papers.
+Analysis of 159 articles identified through PubMed database searching (2017-2025) examining artificial intelligence applications in medicine, with focus on implementation, privacy, and ethical considerations. As shown in Figure 1 (PRISMA flow diagram), the systematic review process assessed all 159 articles for eligibility, resulting in 125 included studies. The quality assessment (Figure 2) reveals a predominance of high (n=65) and medium (n=73) quality studies, with low risk of bias (Figure 3) in the majority of included papers.
 
 ### Temporal Distribution Highlights (See Figure 4)
 - Pre-pandemic baseline (2017-2019): Foundation of privacy-preserving methods
@@ -259,7 +259,7 @@ The theme analysis is supported by systematic review visualizations:
 
 ## Methodological Implications
 The systematic review approach, documented through our figures, reveals:
-1. Strong evidence base (Figure 1: 142 included studies)
+1. Strong evidence base (Figure 1: 159 included studies)
 2. High methodological quality (Figure 2: 86% medium-high quality)
 3. Low risk of bias (Figure 3: 67 studies low risk)
 4. Significant effect sizes (Figures 4-5: implementation success)
@@ -267,4 +267,4 @@ The systematic review approach, documented through our figures, reveals:
 6. Structured implementation path (Figure 7: framework)
 
 ## Conclusion
-The systematic review of 142 articles, supported by comprehensive visualizations (Figures 1-7), reveals significant progress in technical solutions for privacy-preserving AI in medicine. As demonstrated in our forest plots (Figures 4-5), federated learning and synthetic data generation emerge as key solutions with strong effect sizes for enabling collaborative research while protecting patient privacy. The theme analysis visualization (Figure 6) highlights growing attention to fairness and bias in AI systems, marking an important shift toward more equitable healthcare delivery. While technical advances in privacy preservation show promise, our quality assessment (Figure 2) reveals crucial gaps in long-term validation, cost-effectiveness, and standardization. The implementation framework (Figure 7) provides a structured path forward, emphasizing the need to maintain momentum in privacy protection, bias mitigation, and ethical framework development. The integration of privacy-preserving techniques with bias-aware methodologies, as mapped in our thematic analysis, presents a promising direction for developing AI systems that are both secure and equitable.
+The systematic review of 125 included articles, supported by comprehensive visualizations (Figures 1-7), reveals significant progress in technical solutions for privacy-preserving AI in medicine. As demonstrated in our forest plots (Figures 4-5), federated learning and synthetic data generation emerge as key solutions with strong effect sizes for enabling collaborative research while protecting patient privacy. The theme analysis visualization (Figure 6) highlights growing attention to fairness and bias in AI systems, marking an important shift toward more equitable healthcare delivery. While technical advances in privacy preservation show promise, our quality assessment (Figure 2) reveals crucial gaps in long-term validation, cost-effectiveness, and standardization. The implementation framework (Figure 7) provides a structured path forward, emphasizing the need to maintain momentum in privacy protection, bias mitigation, and ethical framework development. The integration of privacy-preserving techniques with bias-aware methodologies, as mapped in our thematic analysis, presents a promising direction for developing AI systems that are both secure and equitable.

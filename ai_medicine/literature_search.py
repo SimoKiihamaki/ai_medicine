@@ -1,5 +1,5 @@
 import json
-from biopython import Entrez
+from Bio import Entrez
 
 # Configure your email (required by Entrez)
 Entrez.email = 'simo.kiihamaki@gmail.com'  # Replace with your actual email
