@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the complete manuscript and all supporting materials for our systematic review, **"Artificial Intelligence in Medicine: Implementation Challenges, Privacy Considerations, and Ethical Frameworks (2017-2025)"**.  This project is a novel exploration in **AI-driven academic writing**: the manuscript was primarily **authored by AI models (Claude Sonnet 3.5 v2 and Deepseek R1) under human oversight**. 
+This repository contains the complete manuscript and all supporting materials for our scoping review, **"Artificial Intelligence in Medicine: Implementation Challenges, Privacy Considerations, and Ethical Frameworks (2017-2025)"**.  This project is a novel exploration in **AI-driven academic writing**: the manuscript was primarily **authored by AI models (Claude Sonnet 3.5 v2 and Deepseek R1) under human oversight**. 
 
 The study provides a comprehensive analysis of **AI implementation in healthcare**, focusing on:
 
@@ -15,7 +15,7 @@ Analyzing literature from **2017 to 2025**, this review offers a structured over
 
 ## Research Scope
 
-This systematic review addresses five core research questions:
+This scoping review addresses five core research questions:
 
 1.  **Clinical Implementation**: What are the primary challenges in implementing AI in clinical practice, and how do these vary across different healthcare contexts?
 2.  **Privacy & Data Security**: How can privacy and data security be maintained while leveraging AI in healthcare, particularly in multi-institutional collaborations?
@@ -99,16 +99,16 @@ The manuscript is structured into the following sections, primarily **drafted by
 
 ### 2. **Introduction** ([research_docs/chapters/introduction.md](research_docs/chapters/introduction.md))
     - Introduces the transformative impact of AI in healthcare and the paradigm shift in medical practice.
-    - Defines the scope of the systematic review and outlines the theoretical framework, encompassing privacy, ethics, clinical integration, and data governance.
+    - Defines the scope of the scoping review and outlines the theoretical framework, encompassing privacy, ethics, clinical integration, and data governance.
     - Identifies critical knowledge gaps related to standardization, validation, and ethical AI deployment.
 
 ### 3. **Methods** ([research_docs/chapters/methods.md](research_docs/chapters/methods.md))
-    - Details the systematic review methodology, including the search strategy, database (PubMed), search terms, and data collection process.
+    - Details the scoping review methodology, including the search strategy, database (PubMed), search terms, and data collection process.
     - Specifies the inclusion and exclusion criteria used for article selection and describes the validation framework applied to assess AI technologies.
     - Explains the use of meta-analysis to evaluate implementation success rates and effectiveness metrics.
 
 ### 4. **Results** ([research_docs/chapters/results.md](research_docs/chapters/results.md))
-    - Presents the findings of the systematic review, including a risk of bias assessment and temporal distribution of AI research trends from 2017-2025.
+    - Presents the findings of the scoping review, including a risk of bias assessment and temporal distribution of AI research trends from 2017-2025.
     - Quantifies results related to AI implementation success rates, privacy-preserving techniques, ethical framework effectiveness, and clinical validation metrics.
     - Includes references to figures (located in [research_docs/figures/](research_docs/figures/)) that visually represent implementation trends, privacy innovations, and ethical advancements.
 
@@ -119,13 +119,13 @@ The manuscript is structured into the following sections, primarily **drafted by
     - Evaluates the validation methodologies used in the reviewed studies and emphasizes the ongoing need for standardized assessment protocols in the field.
 
 ### 6. **Conclusion** ([research_docs/chapters/conclusion.md](research_docs/chapters/conclusion.md))
-    - Summarizes the main findings of the systematic review and highlights key contributions to the field of AI in medicine.
+    - Summarizes the main findings of the scoping review and highlights key contributions to the field of AI in medicine.
     - Re-emphasizes the importance of privacy preservation, the need for standardization of AI validation processes, and the imperative of ensuring equitable access to AI-driven healthcare solutions.
     - Identifies critical areas for future research, including long-term AI effectiveness studies, cost-effectiveness analyses, and the development of robust regulatory standardization.
 
-## Systematic Review Process
+## scoping Review Process
 
-This systematic review followed rigorous methodology:
+This scoping review followed rigorous methodology:
 
 1.  **Literature Search**: Comprehensive searches were conducted in PubMed, the primary biomedical database, using predefined search terms related to AI in medicine, implementation challenges, privacy, and ethics. Python scripts (`literature_search.py`) automated the search and retrieval process.
 
