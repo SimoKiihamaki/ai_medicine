@@ -1,4 +1,5 @@
 # AI in Medicine: Implementation, Privacy, and Ethics - AI-Assisted Manuscript (Completed)
+[Read the complete manuscript here!](https://github.com/SimoKiihamaki/ai_medicine/blob/main/ai_medicine/manuscript.pdf)
 
 ## Overview
 
