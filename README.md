@@ -11,7 +11,7 @@ The study provides a comprehensive analysis of **AI implementation in healthcare
 *   **Ethical Frameworks**: Essential ethical considerations and guidelines for responsible AI deployment.
 *   **Clinical Validation**: Methodologies for ensuring the effectiveness and safety of AI in healthcare.
 
-Analyzing literature from **2017 to 2025**, this review offers a structured overview of AI integration, key developments, and ongoing challenges. **The manuscript is finalized and ready for submission to peer-reviewed journals.**
+Analyzing literature from **2017 to 2025**, this review offers a structured overview of AI integration, key developments, and ongoing challenges. 
 
 ## Research Scope
 
